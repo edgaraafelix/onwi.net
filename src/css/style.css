@@ -1,0 +1,26 @@
+html {
+	background-color: #333;
+}
+
+body {
+	font-family: Arial;
+	font-size: 12px;
+}
+
+a {
+	color: #c8c94b;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #222;
+}
+
+main {
+	width: 460px;
+	margin: 10% auto;
+}
+
+span {
+	color: #fff;
+}
